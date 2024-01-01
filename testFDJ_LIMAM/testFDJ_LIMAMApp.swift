@@ -11,7 +11,7 @@ import SwiftUI
 struct testFDJ_LIMAMApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
